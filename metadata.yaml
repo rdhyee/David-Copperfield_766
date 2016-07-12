@@ -1,0 +1,41 @@
+_repo: David-Copperfield_766
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: David Copperfield enjoys an idyllic life with his gentle, widowed mother
+  and his loving nurse, Peggotty. Then tragedy strikes when Mr. Murdstone weds David's
+  mother and drives her to an early grave. Despised by his stepfather, the boy is
+  forced to live in misery and poverty until he runs away to throw himself upon the
+  mercy of his eccentric aunt. Charles Dickens's classic tale of growing up.
+edition_note: The Charles Dickens Edition
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '1996-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '766'
+language: en
+publication_note: '1869'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bildungsromans'
+- !lcsh 'Boys -- Fiction'
+- !lcsh 'Stepfathers -- Fiction'
+- !lcsh 'Young men -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Child labor -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+title: David Copperfield
+url: http://www.gutenberg.org/ebooks/766
